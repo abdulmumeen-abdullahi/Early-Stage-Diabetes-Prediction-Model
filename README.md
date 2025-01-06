@@ -72,12 +72,13 @@ The top 5 most critical predictors were visualized, with Polyuria emerging as th
 
 ## Interactive Dash Application
 An interactive web application was developed using Dash:
-![Early Stage Diabetes Prediction Dashboard 1](https://github.com/user-attachments/assets/92c6af30-2905-4100-a6ef-448b764320d4)
+
+![Early Stage Diabetes Prediction Dashboard](https://github.com/user-attachments/assets/45d8ad89-6b65-4f0e-a4a8-58c371f872e5)
 
 - Inputs: User-friendly input fields for all 16 features.
 - Outputs: Real-time prediction of diabetes class upon clicking "Predict."
 
-![Early Stage Diabetes Prediction Dashboard](https://github.com/user-attachments/assets/45d8ad89-6b65-4f0e-a4a8-58c371f872e5)
+![Early Stage Diabetes Prediction Dashboard 1](https://github.com/user-attachments/assets/92c6af30-2905-4100-a6ef-448b764320d4)
 
 ## How the Model Helps
 The model empowers individuals by assessing their diabetes risk based on symptoms, prompting timely medical intervention. For healthcare practitioners, it acts as a diagnostic aid, improving efficiency and prioritizing high-risk patients for further evaluation.
